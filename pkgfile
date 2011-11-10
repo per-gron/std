@@ -1,0 +1,8 @@
+(package
+ (version v0.0.1)
+ (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
+ (author "Per Eckerdal <per dot eckerdal at gmail dot com>")
+ (homepage "http://github.com/pereckerdal/std")
+ (description "Some basic utilities for coding with Black Hole")
+ (keywords util std)
+ (license mit))
