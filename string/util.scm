@@ -3,8 +3,8 @@
 ;;; Copyright (c) 2008 Per Eckerdal and Mikael Möre
 
 
-(import ../srfi/13
-        ../srfi/1
+(import (srfi strings
+              lists)
         ../misc/u8v)
 
 (export char->string
